@@ -1,4 +1,4 @@
-# Universal_Approximators
+# Universal Approximators
 
 Can an LSTM develop the right internal representation and correct predictions for sin(x)? Sure.
 
